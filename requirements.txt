@@ -1,0 +1,4 @@
+apache-airflow-providers-apache-kafka
+apache-airflow-providers-http
+apache-airflow-providers-amazon
+pyspark
